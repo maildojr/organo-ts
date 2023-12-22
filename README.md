@@ -1,30 +1,31 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
+# Organo with TypeScript
 
-# Organo
+The Organo is a ReactJS application built using TypeScript.
 
-O Organo é aplicação desenvolvida no curso <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">React: desenvolvendo com JavaScript</a>. 
-Foi pensado e idealizado para ser o primeiro projeto em contato com o React.
-
-<img src="screencapture.png" alt="Imagem do Organo" width="50%">
+<img src="screencapture.png" alt="Image Organo" width="50%">
 
 
-## 🔨 Funcionalidades do projeto
+## 🔨 Features and Design
 
-Você pode passear <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">no figma</a> para entender a arte conceitual do projeto.
+Explore the  <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">Figma Concept</a> for the application's design.
 
-## ✔️ Técnicas e tecnologias utilizadas
-
-Se liga nessa lista de tudo que usaremos nessa formação:
+## ✔️ Techniques
 
 - `React`
 - `React Hooks`
 - `TypeScript`
 
-E muito mais!
+## 🛠️ Running the Project
 
-## 🛠️ Abrir e rodar o projeto
+1. Install all dependencies: 
+```bash
+npm install
+```
 
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm start` para inicar o projeto.
+2. Start the application:
+```bash
+npm start`
+```
 
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
+After starting, you can access the application at <a href="http://localhost:3000/">http://localhost:3000/</a>
 
